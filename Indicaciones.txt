@@ -1,0 +1,1 @@
+Buen dia, por favor correr API desde Visual y base de datos, luego entrar a las vistas ,Muchas gracias Saludos
